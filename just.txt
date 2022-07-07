@@ -1,6 +1,6 @@
 this is my first new git
 
- am in ECE
+ am in ECE 1
 
 
 
